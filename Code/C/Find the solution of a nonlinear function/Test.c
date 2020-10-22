@@ -32,7 +32,7 @@ int main(int argc, char const *argv[])
 		
 		if (fabs(f1) < precision)//满足精度跳出
 		{
-			printf("one root is%f",x1);
+			printf("one root is%f\n",x1);
 			break;
 		}//if
 		else if (fabs(f1) < fabs(f0) )//检测是否下山
