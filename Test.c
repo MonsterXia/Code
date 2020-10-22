@@ -1,11 +1,11 @@
 // <copyright file="Test.c" company="B231">
 //  Copyright (c) B231. All rights reserved.
 // </copyright>
-// <author>Xia Yuchen,Xu Jianzhi,Ma Chenyang,Ruan Kuifeng</author>
+// <author>Xia Yuchen,Xu Jianzhi,Ma Chenyang,Luan Kuifeng</author>
 // <date> 2020-10-21 </date>
 // <summary>实现求非线性函数的解</summary>
 // <modify>
-// 修改人：Xia Yuchen,Xu Jianzhi,Ma Chenyang,Ruan Kuifeng
+// 修改人：Xia Yuchen,Xu Jianzhi,Ma Chenyang,Luan Kuifeng
 // 修改时间：2020-10-21
 // 修改描述：Create
 // 版本：1.0
